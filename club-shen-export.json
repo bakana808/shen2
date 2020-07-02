@@ -1,0 +1,3360 @@
+{
+  "games" : {
+    "ssb4" : {
+      "character" : {
+        "bayo" : "Bayonetta",
+        "bowser" : "Bowser",
+        "bowserjr" : "Bowser Jr.",
+        "brawler" : "Mii Brawler",
+        "charizard" : "Charizard",
+        "cloud" : "Cloud",
+        "corrin" : "Corrin",
+        "darkpit" : "Dark Pit",
+        "dedede" : "King Dedede",
+        "diddy" : "Diddy Kong",
+        "dk" : "Donkey Kong",
+        "drmario" : "Dr. Mario",
+        "duckhunt" : "Duck Hunt",
+        "falco" : "Falco",
+        "falcon" : "Captain Falcon",
+        "fox" : "Fox",
+        "ganon" : "Ganondorf",
+        "gaw" : "Mr. Game and Watch",
+        "greninja" : "Greninja",
+        "gunner" : "Mii Gunner",
+        "ike" : "Ike",
+        "jiggs" : "Jigglypuff",
+        "kirby" : "Kirby",
+        "link" : "Link",
+        "littlemac" : "Little Mac",
+        "lucario" : "Lucario",
+        "lucas" : "Lucas",
+        "lucina" : "Lucina",
+        "luigi" : "Luigi",
+        "mario" : "Mario",
+        "marth" : "Marth",
+        "megaman" : "Mega Man",
+        "metaknight" : "Meta Knight",
+        "mewtwo" : "Mewtwo",
+        "ness" : "Ness",
+        "olimar" : "Olimar",
+        "pacman" : "Pac-Man",
+        "palutena" : "Palutena",
+        "peach" : "Peach",
+        "pikachu" : "Pikachu",
+        "pit" : "Pit",
+        "rob" : "R. O. B.",
+        "robin" : "Robin",
+        "rosa" : "Rosalina and Luma",
+        "roy" : "Roy",
+        "ryu" : "Ryu",
+        "samus" : "Samus",
+        "sheik" : "Sheik",
+        "shulk" : "Shulk",
+        "sonic" : "Sonic",
+        "swordfighter" : "Mii Swordfighter",
+        "toonlink" : "Toon Link",
+        "villager" : "Villager",
+        "wario" : "Wario",
+        "wiifit" : "Wii Fit Trainer",
+        "yoshi" : "Yoshi",
+        "zelda" : "Zelda",
+        "zss" : "Zero Suit Samus"
+      },
+      "stage" : {
+        "bf" : "Battlefield",
+        "dl" : "Dreamland 64",
+        "fd" : "Final Destination",
+        "lc" : "Lylat Cruise",
+        "mg" : "Midgar (Omega)",
+        "sc" : "Suzaku Castle (Omega)",
+        "sv" : "Smashville",
+        "tc" : "Town and City",
+        "wc" : "Wily's Castle (Omega)"
+      },
+      "title" : "Super Smash Bros. 4 for Wii U"
+    }
+  },
+  "matches" : {
+    "-KKDYQNUYc7-8UQB3W_L" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "gio", "mandarinorangee" ],
+      "set" : 3,
+      "time" : 0
+    },
+    "-KKDYQNcnytomJPZlDbl" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "michael", "wingit" ],
+      "set" : 3,
+      "time" : 0
+    },
+    "-KKDYQNhYaqQA3MrSPWH" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "mandarinorangee", "wingit" ],
+      "set" : 3
+    },
+    "-KKDYQNlZrGc4BFGab1C" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "wingit", "blkjesus" ],
+      "set" : 3
+    },
+    "-KKDYQNsWvzTk2ec771o" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "mandarinorangee", "michael" ],
+      "set" : 3
+    },
+    "-KKDYQNu7O69NpOYiWM-" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "blkjesus", "yumm" ],
+      "set" : 3
+    },
+    "-KKDYQNwwHy8GgcRV8iY" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "king", "174421116373303296" ],
+      "set" : 3
+    },
+    "-KKDYQNxPdswmALcAdAy" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "king", "crazy guy" ],
+      "set" : 3
+    },
+    "-KKDYQO0UBILfIU8bhaf" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "174421116373303296", "crazy guy" ],
+      "set" : 3
+    },
+    "-KKDYQO3rnM1qcfWHnvw" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "hax", "king" ],
+      "set" : 3
+    },
+    "-KKDYQO51ZCqipjT8k_R" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "king", "axel" ],
+      "set" : 3
+    },
+    "-KKDYQO7YPw96VLE7usj" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "king", "lex" ],
+      "set" : 3
+    },
+    "-KKDYQOBkm0TCnDPAIAd" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "panda", "axel" ],
+      "set" : 3
+    },
+    "-KKDYQOCKWB2_Gbk1_xu" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "gio", "blkjesus" ],
+      "set" : 3
+    },
+    "-KKDYQOFNKFpbC6eAtrk" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "toshirolls", "mogar" ],
+      "set" : 3
+    },
+    "-KKDYQOG6owmL7Y9Z6QK" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "panda", "174421116373303296" ],
+      "set" : 3
+    },
+    "-KKDYQOHbeKdQFJkCGPy" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "blkjesus", "joshua" ],
+      "set" : 3
+    },
+    "-KKDYQOIAy8H1RiLbv89" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "dylan", "dex" ],
+      "set" : 3
+    },
+    "-KKDYQOJFWB0ceIGSPge" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "kibitori", "raw" ],
+      "set" : 3
+    },
+    "-KKDYQOKqSfX9zelGqjr" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "174421116373303296", "axel" ],
+      "set" : 3
+    },
+    "-KKDYQOLsjsJ-DtU3Y3q" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "174421116373303296", "crazy guy" ],
+      "set" : 3
+    },
+    "-KKDYQOMYb5HPBNMz47T" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "wingit", "mogar" ],
+      "set" : 3
+    },
+    "-KKDYQOQaPw0q0PE8BvK" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "wingit", "danL" ],
+      "set" : 3
+    },
+    "-KKDYQOS3h2Ue5IBaWPF" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "macarony", "taylor" ],
+      "set" : 3
+    },
+    "-KKDYQOUNTDujk-mK0XS" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "michael", "gio" ],
+      "set" : 3
+    },
+    "-KKDYQOWUGMaUsmXLCMa" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "king", "blkjesus" ],
+      "set" : 3
+    },
+    "-KKDYQOXHbf7gZukgx8z" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "mogar", "raw" ],
+      "set" : 3
+    },
+    "-KKDYQOY1fEZ9JeQtisk" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "crazy guy", "michael" ],
+      "set" : 3
+    },
+    "-KKDYQOY1fEZ9JeQtisl" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "crazy guy", "gio" ],
+      "set" : 3
+    },
+    "-KKDYQOZnlpSRetvp4t1" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "lethaltrilogy", "trysoft" ],
+      "set" : 3
+    },
+    "-KKDYQO_1xw3_55GH9_h" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "kibitori", "raw" ],
+      "set" : 3
+    },
+    "-KKDYQO_1xw3_55GH9_i" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "taylor", "raw" ],
+      "set" : 3
+    },
+    "-KKDYQObqKHuX4NhTuGk" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "raw", "mogar" ],
+      "set" : 3
+    },
+    "-KKDYQOdQgkbGI0tjK0H" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "174421116373303296", "axel" ],
+      "set" : 3
+    },
+    "-KKDYQOdQgkbGI0tjK0I" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "axel", "lex" ],
+      "set" : 3
+    },
+    "-KKDYQOfPr3yb8k6SniD" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "dex", "kibitori" ],
+      "set" : 3
+    },
+    "-KKDYQOfPr3yb8k6SniE" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "dex", "cpen" ],
+      "set" : 3
+    },
+    "-KKDYQOg1zmWotuNqs6i" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "174421116373303296", "blkjesus" ],
+      "set" : 3
+    },
+    "-KKDYQOlFSdkV2LyR4Xz" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "raw", "mogar" ],
+      "set" : 3
+    },
+    "-KKDYQOnT9dtEk1k3-GN" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "kibitori", "raw" ],
+      "set" : 3
+    },
+    "-KKDYQOnT9dtEk1k3-GO" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "gio", "raw" ],
+      "set" : 3
+    },
+    "-KKDYQOo3VKfSfdwnepp" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "hax", "axel" ],
+      "set" : 3
+    },
+    "-KKDYQOp3MQi2Me_DIOs" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "hax", "174421116373303296" ],
+      "set" : 3
+    },
+    "-KKDYQOq9h_TpqUDmkBa" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "174421116373303296", "axel" ],
+      "set" : 3
+    },
+    "-KKDYQOs2FsSlWYNNVGJ" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "axel", "crazy guy" ],
+      "set" : 3
+    },
+    "-KKDYQOs2FsSlWYNNVGK" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "blkjesus", "king" ],
+      "set" : 3
+    },
+    "-KKDYQOtIbNR-j38aegJ" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "174421116373303296", "gio" ],
+      "set" : 3
+    },
+    "-KKDYQOtIbNR-j38aegK" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "gio", "yumm" ],
+      "set" : 3
+    },
+    "-KKDYQOu946l0I13QULT" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "king", "yumm" ],
+      "set" : 3
+    },
+    "-KKDYQOvExIe1Ywi1uCI" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "174421116373303296", "gio" ],
+      "set" : 3
+    },
+    "-KKDYQOvExIe1Ywi1uCJ" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "macarony", "taylor" ],
+      "set" : 3
+    },
+    "-KKDYQOyOKtdBkBO7t0V" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "mogar", "elroy" ],
+      "set" : 3
+    },
+    "-KKDYQOzi4ilp2fmH7ya" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "gio", "yumm" ],
+      "set" : 3
+    },
+    "-KKDYQP-V1eKLCYhYWhA" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "gio", "toshirolls" ],
+      "set" : 3
+    },
+    "-KKDYQP0RLNfqxNWbxhZ" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "troupe", "trysoft" ],
+      "set" : 3
+    },
+    "-KKDYQP1dSCAoO7AAAMD" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "macarony", "troupe" ],
+      "set" : 3
+    },
+    "-KKDYQP2r9iwVytOISZb" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "raw", "dex" ],
+      "set" : 3
+    },
+    "-KKDYQP2r9iwVytOISZc" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "dex", "cpen" ],
+      "set" : 3
+    },
+    "-KKDYQP3JaxnEZCS8kJw" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "raw", "toshirolls" ],
+      "set" : 3
+    },
+    "-KKDYQP3JaxnEZCS8kJx" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "wingit", "taylor" ],
+      "set" : 3
+    },
+    "-KKDYQP4_2ePnAFXLFMI" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "174421116373303296", "yumm" ],
+      "set" : 3
+    },
+    "-KKDYQP5zBg9vejv5NvY" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "mogar", "taylor" ],
+      "set" : 3
+    },
+    "-KKDYQP7lyrwzlSQP1Y-" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "wingit", "macarony" ],
+      "set" : 3
+    },
+    "-KKDYQP8KMiXrnSUqw6F" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "raw", "kibitori" ],
+      "set" : 3
+    },
+    "-KKDYQP9sTBMKXP9_hzY" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "blkjesus", "yumm" ],
+      "set" : 3
+    },
+    "-KKDYQP9sTBMKXP9_hzZ" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "taylor", "macarony" ],
+      "set" : 3
+    },
+    "-KKDYQPBngPB2bOu-WYj" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "wingit", "troupe" ],
+      "set" : 3
+    },
+    "-KKDYQPCJXqV2rJZnhZ_" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "raw", "kibitori" ],
+      "set" : 3
+    },
+    "-KKDYQPDJzg9e216RoHD" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "kibitori", "gio" ],
+      "set" : 3
+    },
+    "-KKDYQPFU48R3hwEfb0N" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "mogar", "chase" ],
+      "set" : 3
+    },
+    "-KKDYQPFU48R3hwEfb0O" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "gio", "chase" ],
+      "set" : 3
+    },
+    "-KKDYQPG2DR9OD8HWDOi" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "dex", "raw" ],
+      "set" : 3
+    },
+    "-KKDYQPG2DR9OD8HWDOj" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "gio", "mogar" ],
+      "set" : 3
+    },
+    "-KKDYQPG2DR9OD8HWDOk" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "tyler", "crazy guy" ],
+      "set" : 3
+    },
+    "-KKDYQPI61_QBpNnRTQo" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "yumm", "raw" ],
+      "set" : 3
+    },
+    "-KKDYQPI61_QBpNnRTQp" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "gio", "macarony" ],
+      "set" : 3,
+      "time" : "1456358400"
+    },
+    "-KKDYQPJQNlsolfLDf8x" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "hax", "blkjesus" ],
+      "set" : 3,
+      "time" : "2/25/2016"
+    },
+    "-KKDYQPKws_1jrqfEmwk" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "danl", "taylor" ],
+      "set" : 3,
+      "time" : "2/25/2016"
+    },
+    "-KKDYQPLwoK8cd3QVD4f" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "mogar", "macarony" ],
+      "set" : 3,
+      "time" : "2/25/2016"
+    },
+    "-KKDYQPLwoK8cd3QVD4g" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "raw", "kibitori" ],
+      "set" : 3,
+      "time" : "2/25/2016"
+    },
+    "-KKDYQPNtI4VnZssg-eF" : {
+      "games" : [ {
+        "winner" : 0
+      }, {
+        "winner" : 0
+      } ],
+      "players" : [ "gio", "gurfgurf" ],
+      "set" : 3,
+      "time" : "2/25/2016"
+    },
+    "-KKDYQPOLKT4AnTJvu_3" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "gurfgurf", "macarony" ],
+      "set" : 3,
+      "time" : "2/25/2016"
+    },
+    "-KKDYQPOLKT4AnTJvu_4" : {
+      "games" : [ {
+        "winner" : 1
+      }, {
+        "winner" : 1
+      } ],
+      "players" : [ "mogar", "gio" ],
+      "set" : 3,
+      "time" : "2/25/2016"
+    },
+    "-KKDYQPQ2nFrZX_AR-Mp" : {
+      "games" : [ {
+        "characters" : [ "Pikachu", "Sheik" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      }, {
+        "characters" : [ "Pikachu", "Sheik" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      } ],
+      "players" : [ "gio", "lethaltrilogy" ],
+      "set" : 3,
+      "time" : "1456790400"
+    },
+    "-KKDYQPQ2nFrZX_AR-Mq" : {
+      "games" : [ {
+        "characters" : [ "Wario", "Sheik" ],
+        "stage" : "Smashville",
+        "winner" : 1
+      }, {
+        "characters" : [ "Wario", "Sheik" ],
+        "stage" : "Smashville",
+        "winner" : 1
+      } ],
+      "players" : [ "troupe", "lethaltrilogy" ],
+      "set" : 3,
+      "time" : "3/1/2016"
+    },
+    "-KKDYQPV5-5CEEkdvFrp" : {
+      "games" : [ {
+        "characters" : [ "Ness", "Cloud" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      }, {
+        "characters" : [ "Yoshi", "Cloud" ],
+        "stage" : "Final Destination",
+        "winner" : 0
+      }, {
+        "characters" : [ "Yoshi", "Cloud" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      } ],
+      "players" : [ "taylor", "gio" ],
+      "set" : 3,
+      "time" : "3/1/2016"
+    },
+    "-KKDYQPWI5nJFy1LejJo" : {
+      "games" : [ {
+        "characters" : [ "Link", "Yoshi" ],
+        "stage" : "Battlefield",
+        "winner" : 0
+      }, {
+        "characters" : [ "Link", "Marth" ],
+        "stage" : "Battlefield",
+        "winner" : 1
+      }, {
+        "characters" : [ "Link", "Corrin" ],
+        "stage" : "Final Destination",
+        "winner" : 0
+      } ],
+      "players" : [ "raw", "kibitori" ],
+      "set" : 3,
+      "time" : "3/1/2016"
+    },
+    "-KKDYQPX7hU-9hXwtFKh" : {
+      "games" : [ {
+        "characters" : [ "Ganondorf", "Cloud" ],
+        "stage" : "Smashville",
+        "winner" : 1
+      }, {
+        "characters" : [ "Ike", "Corrin" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      } ],
+      "players" : [ "michael", "crazy guy" ],
+      "set" : 3,
+      "time" : "3/1/2016"
+    },
+    "-KKDYQPYFV3umYcTkD4l" : {
+      "games" : [ {
+        "characters" : [ "Lucina", "Marth" ],
+        "stage" : "Battlefield",
+        "winner" : 1
+      }, {
+        "characters" : [ "Toon Link", "Marth" ],
+        "stage" : "Smashville",
+        "winner" : 1
+      } ],
+      "players" : [ "panda", "axel" ],
+      "set" : 3,
+      "time" : "3/1/2016"
+    },
+    "-KKDYQPZnjptXfjfBndx" : {
+      "games" : [ {
+        "characters" : [ "Dark Pit", "Marth" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      }, {
+        "characters" : [ "Corrin", "Mr. Game and Watch" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      } ],
+      "players" : [ "crazy guy", "gio" ],
+      "set" : 3,
+      "time" : "3/1/2016"
+    },
+    "-KKDYQPbSVxI6QKetPfb" : {
+      "games" : [ {
+        "characters" : [ "Marth", "Bowser" ],
+        "stage" : "Battlefield",
+        "winner" : 1
+      }, {
+        "characters" : [ "Marth", "Bowser" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      } ],
+      "players" : [ "axel", "kibitori" ],
+      "set" : 3,
+      "time" : "3/1/2016"
+    },
+    "-KKDYQPcGqE7WuBvaSAr" : {
+      "games" : [ {
+        "characters" : [ "Link", "Random" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      }, {
+        "characters" : [ "Link", "Yoshi" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      } ],
+      "players" : [ "raw", "mogar" ],
+      "set" : 3,
+      "time" : "3/1/2016"
+    },
+    "-KKDYQPdBHaX6_APUdgl" : {
+      "games" : [ {
+        "characters" : [ "Ike", "Mr. Game and Watch" ],
+        "stage" : "Smashville",
+        "winner" : 0
+      }, {
+        "characters" : [ "Cloud", "Random" ],
+        "stage" : "Smashville",
+        "winner" : 0
+      } ],
+      "players" : [ "dex", "mogar" ],
+      "set" : 3,
+      "time" : "3/14/2016"
+    },
+    "-KKDYQPeYYGPqXxvBkyQ" : {
+      "games" : [ {
+        "characters" : [ "Yoshi", "Cloud" ],
+        "stage" : "Final Destination",
+        "winner" : 0
+      }, {
+        "characters" : [ "Yoshi", "Cloud" ],
+        "stage" : "Final Destination",
+        "winner" : 0
+      } ],
+      "players" : [ "taylor", "gio" ],
+      "set" : 3,
+      "time" : "3/15/2016"
+    },
+    "-KKDYQPfCVfUtVUi-oly" : {
+      "games" : [ {
+        "characters" : [ "Cloud", "Cloud" ],
+        "stage" : "Battlefield",
+        "winner" : 0
+      }, {
+        "characters" : [ "Cloud", "Cloud" ],
+        "stage" : "Battlefield",
+        "winner" : 1
+      }, {
+        "characters" : [ "Cloud", "Cloud" ],
+        "stage" : "Final Destination",
+        "winner" : 0
+      } ],
+      "players" : [ "gio", "macarony" ],
+      "set" : 3,
+      "time" : "3/2/2016"
+    },
+    "-KKDYQPgMrjpyl0L75bj" : {
+      "games" : [ {
+        "characters" : [ "Link", "Wario" ],
+        "stage" : "Smashville",
+        "winner" : 1
+      }, {
+        "characters" : [ "Link", "Wario" ],
+        "stage" : "Final Destination",
+        "winner" : 0
+      }, {
+        "characters" : [ "Link", "Wario" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      } ],
+      "players" : [ "raw", "troupe" ],
+      "set" : 3,
+      "time" : "3/3/2016"
+    },
+    "-KKDYQPhmNIMVV1poR_t" : {
+      "games" : [ {
+        "characters" : [ "Link", "Pikachu" ],
+        "stage" : "Battlefield",
+        "winner" : 0
+      }, {
+        "characters" : [ "Link", "Pikachu" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      }, {
+        "characters" : [ "Link", "Pikachu" ],
+        "stage" : "Final Destination",
+        "winner" : 0
+      } ],
+      "players" : [ "raw", "gio" ],
+      "set" : 3,
+      "time" : "3/8/2016"
+    },
+    "-KKDYQPidYvbo9HFGgIr" : {
+      "games" : [ {
+        "characters" : [ "King Dedede", "Villager" ],
+        "stage" : "Battlefield",
+        "winner" : 0
+      }, {
+        "characters" : [ "King Dedede", "Villager" ],
+        "stage" : "Lylat Cruise",
+        "winner" : 0
+      } ],
+      "players" : [ "tyler", "macarony" ],
+      "set" : 3,
+      "time" : "3/8/2016"
+    },
+    "-KKDYQPmOodxqdqZ-dP6" : {
+      "games" : [ {
+        "characters" : [ "Lucas", "Marth" ],
+        "stage" : "Battlefield",
+        "winner" : 1
+      }, {
+        "characters" : [ "Lucas", "Marth" ],
+        "stage" : "Battlefield",
+        "winner" : 1
+      } ],
+      "players" : [ "hax", "axel" ],
+      "set" : 3,
+      "time" : "3/8/2016"
+    },
+    "-KKDYQPp6vYa9_vHxoij" : {
+      "games" : [ {
+        "characters" : [ "Sheik", "Meta Knight" ],
+        "stage" : "Town and City",
+        "winner" : 0
+      }, {
+        "characters" : [ "Sheik", "Meta Knight" ],
+        "stage" : "Battlefield",
+        "winner" : 1
+      }, {
+        "characters" : [ "Sheik", "Meta Knight" ],
+        "stage" : "Battlefield",
+        "winner" : 1
+      }, {
+        "characters" : [ "Sheik", "Meta Knight" ],
+        "stage" : "Dream Land (64)",
+        "winner" : 1
+      } ],
+      "players" : [ "danl", "wingit" ],
+      "set" : 5,
+      "time" : "3/8/2016"
+    },
+    "-KKDYQPq9Y26BTJdwPwN" : {
+      "games" : [ {
+        "characters" : [ "Villager", "Link" ],
+        "stage" : "Final Destination",
+        "winner" : 0
+      }, {
+        "characters" : [ "Villager", "Link" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      }, {
+        "characters" : [ "Villager", "Link" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      } ],
+      "players" : [ "macarony", "raw" ],
+      "set" : 3,
+      "time" : "3/8/2016"
+    },
+    "-KKDYQProyscLn8ZYEKr" : {
+      "games" : [ {
+        "characters" : [ "Lucas", "Greninja" ],
+        "stage" : "Battlefield",
+        "winner" : 1
+      }, {
+        "characters" : [ "lucario", "Corrin" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      } ],
+      "players" : [ "hax", "crazy guy" ],
+      "set" : 3,
+      "time" : "3/8/2016"
+    },
+    "-KKDYQProyscLn8ZYEKs" : {
+      "games" : [ {
+        "characters" : [ "Villager", "Yoshi" ],
+        "stage" : "Final Destination",
+        "winner" : 0
+      }, {
+        "characters" : [ "Villager", "Yoshi" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      }, {
+        "characters" : [ "Cloud", "Yoshi" ],
+        "stage" : "Battlefield",
+        "winner" : 0
+      } ],
+      "players" : [ "macarony", "taylor" ],
+      "set" : 3,
+      "time" : "3/8/2016"
+    },
+    "-KKDYQPsCtqTe_k9Z88A" : {
+      "games" : [ {
+        "characters" : [ "Link", "Meta Knight" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      }, {
+        "characters" : [ "Link", "Meta Knight" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      }, {
+        "characters" : [ "Link", "Meta Knight" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      } ],
+      "players" : [ "raw", "wingit" ],
+      "set" : 5,
+      "time" : "3/8/2016"
+    },
+    "-KKDYQPsCtqTe_k9Z88B" : {
+      "games" : [ {
+        "characters" : [ "Link", "Pit" ],
+        "stage" : "Final Destination",
+        "winner" : 0
+      }, {
+        "characters" : [ "Link", "Little Mac" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      }, {
+        "characters" : [ "Link", "Little Mac" ],
+        "stage" : "Duck Hunt",
+        "winner" : 1
+      } ],
+      "players" : [ "raw", "gurfgurf" ],
+      "set" : 3,
+      "time" : "3/8/2016"
+    },
+    "-KKDYQPudvnLRRCudx7Z" : {
+      "games" : [ {
+        "characters" : [ "Marth", "Cloud" ],
+        "stage" : "Battlefield",
+        "winner" : 0
+      }, {
+        "characters" : [ "Marth", "Cloud" ],
+        "stage" : "Battlefield",
+        "winner" : 0
+      } ],
+      "players" : [ "axel", "blkjesus" ],
+      "set" : 3,
+      "time" : "3/8/2016"
+    },
+    "-KKDYQPvuVgUpo79gwY8" : {
+      "games" : [ {
+        "characters" : [ "Marth", "Cloud" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      }, {
+        "characters" : [ "Marth", "Marth" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      } ],
+      "players" : [ "axel", "gio" ],
+      "set" : 3,
+      "time" : "3/8/2016"
+    },
+    "-KKDYQPxxbdR2fpGxYhk" : {
+      "games" : [ {
+        "characters" : [ "Robin", "Link" ],
+        "stage" : "Smashville",
+        "winner" : 0
+      }, {
+        "characters" : [ "Robin", "Link" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      }, {
+        "characters" : [ "Robin", "Link" ],
+        "stage" : "Town and City",
+        "winner" : 1
+      } ],
+      "players" : [ "yumm", "raw" ],
+      "set" : 3,
+      "time" : "3/8/2016"
+    },
+    "-KKDYQPxxbdR2fpGxYhl" : {
+      "games" : [ {
+        "characters" : [ "Cloud", "Link" ],
+        "stage" : "Final Destination",
+        "winner" : 0
+      }, {
+        "characters" : [ "Cloud", "Link" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      }, {
+        "characters" : [ "Cloud", "Link" ],
+        "stage" : "Battlefield",
+        "winner" : 1
+      } ],
+      "players" : [ "blkjesus", "raw" ],
+      "set" : 3,
+      "time" : "3/8/2016"
+    },
+    "-KKDYQPyY4CzW3A70li5" : {
+      "games" : [ {
+        "characters" : [ "Falco", "Mr. Game and Watch" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      }, {
+        "characters" : [ "Falco", "Mr. Game and Watch" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      } ],
+      "players" : [ "hax", "174421116373303296" ],
+      "set" : 3,
+      "time" : "3/8/2016"
+    },
+    "-KKDYQPz3F80l8CtbBvo" : {
+      "games" : [ {
+        "characters" : [ "Duck Hunt", "Corrin" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      }, {
+        "characters" : [ "Shulk", "Mr. Game and Watch" ],
+        "stage" : "Final Destination",
+        "winner" : 0
+      }, {
+        "characters" : [ "Corrin", "Cloud" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      } ],
+      "players" : [ "crazy guy", "gio" ],
+      "set" : 3,
+      "time" : "3/8/2016"
+    },
+    "-KKDYQQ04KyON-fg85HC" : {
+      "games" : [ {
+        "characters" : [ "Cloud", "Link" ],
+        "stage" : "Final Destination",
+        "winner" : 0
+      }, {
+        "characters" : [ "Cloud", "Link" ],
+        "stage" : "Final Destination",
+        "winner" : 0
+      } ],
+      "players" : [ "blkjesus", "raw" ],
+      "set" : 3,
+      "time" : "3/15/2016"
+    },
+    "-KKDYQQ04KyON-fg85HD" : {
+      "games" : [ {
+        "characters" : [ "Link", "Pikachu" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      }, {
+        "characters" : [ "Link", "Pikachu" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      } ],
+      "players" : [ "raw", "gio" ],
+      "set" : 3,
+      "time" : "3/15/2016"
+    },
+    "-KKDYQQ1s7qFv_MVQhHg" : {
+      "games" : [ {
+        "characters" : [ "Wii Fit Trainer", "Corrin" ],
+        "stage" : "Battlefield",
+        "winner" : 1
+      }, {
+        "characters" : [ "Villager", "Corrin" ],
+        "stage" : "Lylat Cruise",
+        "winner" : 1
+      } ],
+      "players" : [ "macarony", "gurfgurf" ],
+      "set" : 3,
+      "time" : "3/15/2016"
+    },
+    "-KKDYQQ2eCkNErRo5_Zu" : {
+      "games" : [ {
+        "characters" : [ "Cloud", "Marth" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      }, {
+        "characters" : [ "Cloud", "Marth" ],
+        "stage" : "Battlefield",
+        "winner" : 0
+      }, {
+        "characters" : [ "Cloud", "Marth" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      } ],
+      "players" : [ "blkjesus", "kibitori" ],
+      "set" : 3,
+      "time" : "3/15/2016"
+    },
+    "-KKDYQQ2eCkNErRo5_Zv" : {
+      "games" : [ {
+        "characters" : [ "Pikachu", "Little Mac" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      }, {
+        "characters" : [ "Pikachu", "Little Mac" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      }, {
+        "characters" : [ "Pikachu", "Little Mac" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      } ],
+      "players" : [ "gio", "gurfgurf" ],
+      "set" : 5,
+      "time" : "3/15/2016"
+    },
+    "-KKDYQQ3ni9xnO36BqK-" : {
+      "games" : [ {
+        "characters" : [ "Ness", "Cloud" ],
+        "stage" : "Battlefield",
+        "winner" : 1
+      }, {
+        "characters" : [ "Ness", "Cloud" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      } ],
+      "players" : [ "174421116373303296", "blkjesus" ],
+      "set" : 3,
+      "time" : "3/15/2016"
+    },
+    "-KKDYQQ48lxd61YqCD1g" : {
+      "games" : [ {
+        "characters" : [ "Bayonetta", "Link" ],
+        "stage" : "Final Destination",
+        "winner" : 0
+      }, {
+        "characters" : [ "Cloud", "Link" ],
+        "stage" : "Battlefield",
+        "winner" : 1
+      }, {
+        "characters" : [ "Cloud", "Link" ],
+        "stage" : "Final Destination",
+        "winner" : 1
+      } ],
+      "players" : [ "raw", "gio" ],
+      "set" : 3,
+      "time" : "3/17/2016"
+    },
+    "-KKDYQQ48lxd61YqCD1h" : {
+      "games" : [ {
+        "characters" : [ "Wario", "Link" ],
+        "stage" : "Battlefield",
+        "winner" : 0
+      }, {
+        "characters" : [ "Wario", "Link" ],
+        "stage" : "Final Destination",
+        "winner" : 0
+      } ],
+      "players" : [ "troupe", "raw" ],
+      "set" : 3,
+      "time" : "4/27/2016"
+    },
+    "-KKDYQQ5u9la5qSUpJ0p" : {
+      "games" : [ {
+        "characters" : [ "Wario", "Corrin" ],
+        "stage" : "Battlefield",
+        "winner" : 0
+      }, {
+        "characters" : [ "Wario", "Little Mac" ],
+        "stage" : "Duck Hunt",
+        "winner" : 1
+      }, {
+        "characters" : [ "Bowser Jr.", "Little Mac" ],
+        "stage" : "Smashville",
+        "winner" : 0
+      } ],
+      "players" : [ "troupe", "gurfgurf" ],
+      "set" : 3,
+      "time" : "4/27/2016"
+    },
+    "-KKDYQQ7kFGU8oZUb48f" : {
+      "games" : [ {
+        "characters" : [ "Jigglypuff", "Kirby" ],
+        "stage" : "Battlefield",
+        "winner" : 0
+      } ],
+      "players" : [ "chase", "trysoft" ],
+      "set" : 3,
+      "time" : "4/27/2016"
+    }
+  },
+  "matches-new" : [ {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "gio", "mandarinorangee" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "michael", "wingit" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "mandarinorangee", "wingit" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "wingit", "blkjesus" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "mandarinorangee", "michael" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "blkjesus", "yumm" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "king", "174421116373303296" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "king", "crazy guy" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "174421116373303296", "crazy guy" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "hax", "king" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "king", "axel" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "king", "lex" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "panda", "axel" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "gio", "blkjesus" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "toshirolls", "mogar" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "panda", "174421116373303296" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "blkjesus", "joshua" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "dylan", "dex" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "kibitori", "raw" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "174421116373303296", "axel" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "174421116373303296", "crazy guy" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "wingit", "mogar" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "wingit", "danL" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "macarony", "taylor" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "michael", "gio" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "king", "blkjesus" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "mogar", "raw" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "crazy guy", "michael" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "crazy guy", "gio" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "lethaltrilogy", "trysoft" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "kibitori", "raw" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "taylor", "raw" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "raw", "mogar" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "174421116373303296", "axel" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "axel", "lex" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "dex", "kibitori" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "dex", "cpen" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "174421116373303296", "blkjesus" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "raw", "mogar" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "kibitori", "raw" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "gio", "raw" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "hax", "axel" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "hax", "174421116373303296" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "174421116373303296", "axel" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "axel", "crazy guy" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "blkjesus", "king" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "174421116373303296", "gio" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "gio", "yumm" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "king", "yumm" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "174421116373303296", "gio" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "macarony", "taylor" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "mogar", "elroy" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "gio", "yumm" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "gio", "toshirolls" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "troupe", "trysoft" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "macarony", "troupe" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "raw", "dex" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "dex", "cpen" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "raw", "toshirolls" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "wingit", "taylor" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "174421116373303296", "yumm" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "mogar", "taylor" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "wingit", "macarony" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "raw", "kibitori" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "blkjesus", "yumm" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "taylor", "macarony" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "wingit", "troupe" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "raw", "kibitori" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "kibitori", "gio" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "mogar", "chase" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "gio", "chase" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "dex", "raw" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "gio", "mogar" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "tyler", "crazy guy" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "yumm", "raw" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "gio", "macarony" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "hax", "blkjesus" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "danl", "taylor" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "mogar", "macarony" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "raw", "kibitori" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "gio", "gurfgurf" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "gurfgurf", "macarony" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "mogar", "gio" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "gio", "lethaltrilogy" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "troupe", "lethaltrilogy" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "taylor", "gio" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "raw", "kibitori" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "michael", "crazy guy" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "panda", "axel" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "crazy guy", "gio" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "axel", "kibitori" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "raw", "mogar" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "dex", "mogar" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "taylor", "gio" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "gio", "macarony" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "raw", "troupe" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "raw", "gio" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "tyler", "macarony" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "hax", "axel" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "danl", "wingit" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "macarony", "raw" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "hax", "crazy guy" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "macarony", "taylor" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "raw", "wingit" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "raw", "gurfgurf" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "axel", "blkjesus" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "axel", "gio" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "yumm", "raw" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "blkjesus", "raw" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "hax", "174421116373303296" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "crazy guy", "gio" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "blkjesus", "raw" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "raw", "gio" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "macarony", "gurfgurf" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "blkjesus", "kibitori" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "gio", "gurfgurf" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "174421116373303296", "blkjesus" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "raw", "gio" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "troupe", "raw" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "troupe", "gurfgurf" ]
+  }, {
+    "label" : "unknown match type",
+    "tournament" : "ssb4-s2016",
+    "users" : [ "chase", "trysoft" ]
+  } ],
+  "players" : {
+    "ssb4-s2016" : {
+      "174421116373303296" : {
+        "match_losses" : 11,
+        "match_wins" : 3,
+        "nickname" : "octopod",
+        "rating" : 1328,
+        "total_matches" : 14
+      },
+      "axel" : {
+        "match_losses" : 5,
+        "match_wins" : 8,
+        "rating" : 1507,
+        "total_matches" : 13
+      },
+      "blkjesus" : {
+        "match_losses" : 8,
+        "match_wins" : 6,
+        "rating" : 1420,
+        "total_matches" : 14
+      },
+      "chase" : {
+        "match_losses" : 2,
+        "match_wins" : 0,
+        "rating" : 1443,
+        "total_matches" : 2
+      },
+      "cpen" : {
+        "match_losses" : 0,
+        "match_wins" : 2,
+        "rating" : 1584,
+        "total_matches" : 2
+      },
+      "crazy guy" : {
+        "match_losses" : 4,
+        "match_wins" : 7,
+        "rating" : 1507,
+        "total_matches" : 11
+      },
+      "danL" : {
+        "match_losses" : 1,
+        "match_wins" : 0,
+        "rating" : 1475,
+        "total_matches" : 1
+      },
+      "danl" : {
+        "match_losses" : 1,
+        "match_wins" : 1,
+        "rating" : 1528,
+        "total_matches" : 2
+      },
+      "dex" : {
+        "match_losses" : 3,
+        "match_wins" : 4,
+        "rating" : 1534,
+        "total_matches" : 7
+      },
+      "dylan" : {
+        "match_losses" : 1,
+        "match_wins" : 0,
+        "rating" : 1450,
+        "total_matches" : 1
+      },
+      "elroy" : {
+        "match_losses" : 1,
+        "match_wins" : 0,
+        "rating" : 1471,
+        "total_matches" : 1
+      },
+      "gio" : {
+        "match_losses" : 8,
+        "match_wins" : 19,
+        "rating" : 1640,
+        "total_matches" : 27
+      },
+      "gurfgurf" : {
+        "match_losses" : 3,
+        "match_wins" : 3,
+        "rating" : 1550,
+        "total_matches" : 6
+      },
+      "hax" : {
+        "match_losses" : 7,
+        "match_wins" : 0,
+        "rating" : 1222,
+        "total_matches" : 7
+      },
+      "joshua" : {
+        "match_losses" : 1,
+        "match_wins" : 0,
+        "rating" : 1443,
+        "total_matches" : 1
+      },
+      "kibitori" : {
+        "match_losses" : 5,
+        "match_wins" : 6,
+        "rating" : 1568,
+        "total_matches" : 11
+      },
+      "king" : {
+        "match_losses" : 2,
+        "match_wins" : 6,
+        "rating" : 1631,
+        "total_matches" : 8
+      },
+      "lethaltrilogy" : {
+        "match_losses" : 0,
+        "match_wins" : 3,
+        "rating" : 1640,
+        "total_matches" : 3
+      },
+      "lex" : {
+        "match_losses" : 2,
+        "match_wins" : 0,
+        "rating" : 1435,
+        "total_matches" : 2
+      },
+      "macarony" : {
+        "match_losses" : 7,
+        "match_wins" : 6,
+        "rating" : 1492,
+        "total_matches" : 13
+      },
+      "mandarinorangee" : {
+        "match_losses" : 1,
+        "match_wins" : 2,
+        "rating" : 1537,
+        "total_matches" : 3
+      },
+      "michael" : {
+        "match_losses" : 5,
+        "match_wins" : 0,
+        "rating" : 1330,
+        "total_matches" : 5
+      },
+      "mogar" : {
+        "match_losses" : 6,
+        "match_wins" : 7,
+        "rating" : 1487,
+        "total_matches" : 13
+      },
+      "panda" : {
+        "match_losses" : 2,
+        "match_wins" : 1,
+        "rating" : 1442,
+        "total_matches" : 3
+      },
+      "raw" : {
+        "match_losses" : 17,
+        "match_wins" : 11,
+        "rating" : 1469,
+        "total_matches" : 28
+      },
+      "taylor" : {
+        "match_losses" : 6,
+        "match_wins" : 4,
+        "rating" : 1462,
+        "total_matches" : 10
+      },
+      "toshirolls" : {
+        "match_losses" : 3,
+        "match_wins" : 0,
+        "rating" : 1387,
+        "total_matches" : 3
+      },
+      "troupe" : {
+        "match_losses" : 2,
+        "match_wins" : 5,
+        "rating" : 1636,
+        "total_matches" : 7
+      },
+      "trysoft" : {
+        "match_losses" : 2,
+        "match_wins" : 0,
+        "rating" : 1419,
+        "total_matches" : 2
+      },
+      "tyler" : {
+        "match_losses" : 0,
+        "match_wins" : 2,
+        "rating" : 1609,
+        "total_matches" : 2
+      },
+      "wingit" : {
+        "match_losses" : 0,
+        "match_wins" : 10,
+        "rating" : 1800,
+        "total_matches" : 10
+      },
+      "yumm" : {
+        "match_losses" : 4,
+        "match_wins" : 4,
+        "rating" : 1429,
+        "total_matches" : 8
+      }
+    }
+  },
+  "rankings" : {
+    "active-tournament" : "ssb4-ladder-sp2017",
+    "matches" : [ {
+      "time" : 1486709843190,
+      "tournament" : "ssb4-biweekly-1",
+      "users" : [ "gurfgurf", "danl" ],
+      "winners" : [ "danl" ]
+    }, {
+      "time" : 1486709895810,
+      "tournament" : "ssb4-biweekly-1",
+      "users" : [ "dad", "absolute" ],
+      "winners" : [ "dad" ]
+    }, {
+      "time" : 1486709913124,
+      "tournament" : "ssb4-biweekly-1",
+      "users" : [ "mogar", "pucci" ],
+      "winners" : [ "mogar" ]
+    }, {
+      "time" : 1486709921641,
+      "tournament" : "ssb4-biweekly-1",
+      "users" : [ "brnt", "kolton" ],
+      "winners" : [ "brnt" ]
+    }, {
+      "time" : 1486709950930,
+      "tournament" : "ssb4-biweekly-1",
+      "users" : [ "velocity", "society" ],
+      "winners" : [ "velocity" ]
+    }, {
+      "time" : 1486709961758,
+      "tournament" : "ssb4-biweekly-1",
+      "users" : [ "troupe", "raw" ],
+      "winners" : [ "troupe" ]
+    }, {
+      "time" : 1486709969191,
+      "tournament" : "ssb4-biweekly-1",
+      "users" : [ "dex", "toshirolls" ],
+      "winners" : [ "dex" ]
+    }, {
+      "time" : 1486709994808,
+      "tournament" : "ssb4-biweekly-1",
+      "users" : [ "danl", "trysoft" ],
+      "winners" : [ "trysoft" ]
+    }, {
+      "time" : 1486710002160,
+      "tournament" : "ssb4-biweekly-1",
+      "users" : [ "dad", "mogar" ],
+      "winners" : [ "mogar" ]
+    }, {
+      "time" : 1486710013069,
+      "tournament" : "ssb4-biweekly-1",
+      "users" : [ "brnt", "velocity" ],
+      "winners" : [ "velocity" ]
+    }, {
+      "time" : 1486710023005,
+      "tournament" : "ssb4-biweekly-1",
+      "users" : [ "troupe", "dex" ],
+      "winners" : [ "dex" ]
+    }, {
+      "time" : 1486710032844,
+      "tournament" : "ssb4-biweekly-1",
+      "users" : [ "trysoft", "mogar" ],
+      "winners" : [ "trysoft" ]
+    }, {
+      "time" : 1486710039278,
+      "tournament" : "ssb4-biweekly-1",
+      "users" : [ "velocity", "dex" ],
+      "winners" : [ "dex" ]
+    }, {
+      "time" : 1486710066514,
+      "tournament" : "ssb4-biweekly-1",
+      "users" : [ "trysoft", "dex" ],
+      "winners" : [ "trysoft" ]
+    }, {
+      "time" : 1486710090196,
+      "tournament" : "ssb4-biweekly-1",
+      "users" : [ "mogar", "velocity" ],
+      "winners" : [ "mogar" ]
+    }, {
+      "time" : 1486711601880,
+      "tournament" : "ssb4-biweekly-2",
+      "users" : [ "dad", "trysoft" ],
+      "winners" : [ "trysoft" ]
+    }, {
+      "time" : 1486711616429,
+      "tournament" : "ssb4-biweekly-2",
+      "users" : [ "gio", "troupe" ],
+      "winners" : [ "troupe" ]
+    }, {
+      "time" : 1486711627651,
+      "tournament" : "ssb4-biweekly-2",
+      "users" : [ "brnt", "absolute" ],
+      "winners" : [ "absolute" ]
+    }, {
+      "time" : 1486711633592,
+      "tournament" : "ssb4-biweekly-2",
+      "users" : [ "pucci", "mogar" ],
+      "winners" : [ "pucci" ]
+    }, {
+      "time" : 1486711640566,
+      "tournament" : "ssb4-biweekly-2",
+      "users" : [ "dex", "trysoft" ],
+      "winners" : [ "trysoft" ]
+    }, {
+      "time" : 1486711649807,
+      "tournament" : "ssb4-biweekly-2",
+      "users" : [ "thyme", "troupe" ],
+      "winners" : [ "troupe" ]
+    }, {
+      "time" : 1486711658420,
+      "tournament" : "ssb4-biweekly-2",
+      "users" : [ "brnt", "gio" ],
+      "winners" : [ "gio" ]
+    }, {
+      "time" : 1486711665110,
+      "tournament" : "ssb4-biweekly-2",
+      "users" : [ "mogar", "dad" ],
+      "winners" : [ "mogar" ]
+    }, {
+      "time" : 1486711670498,
+      "tournament" : "ssb4-biweekly-2",
+      "users" : [ "dex", "gio" ],
+      "winners" : [ "dex" ]
+    }, {
+      "time" : 1486711680391,
+      "tournament" : "ssb4-biweekly-2",
+      "users" : [ "thyme", "mogar" ],
+      "winners" : [ "mogar" ]
+    }, {
+      "time" : 1486711688494,
+      "tournament" : "ssb4-biweekly-2",
+      "users" : [ "trysoft", "absolute" ],
+      "winners" : [ "trysoft" ]
+    }, {
+      "time" : 1486711707047,
+      "tournament" : "ssb4-biweekly-2",
+      "users" : [ "troupe", "pucci" ],
+      "winners" : [ "troupe" ]
+    }, {
+      "time" : 1486711713901,
+      "tournament" : "ssb4-biweekly-2",
+      "users" : [ "absolute", "mogar" ],
+      "winners" : [ "mogar" ]
+    }, {
+      "time" : 1486711718866,
+      "tournament" : "ssb4-biweekly-2",
+      "users" : [ "pucci", "dex" ],
+      "winners" : [ "dex" ]
+    }, {
+      "time" : 1486711746993,
+      "tournament" : "ssb4-biweekly-2",
+      "users" : [ "mogar", "dex" ],
+      "winners" : [ "dex" ]
+    }, {
+      "time" : 1486711754424,
+      "tournament" : "ssb4-biweekly-2",
+      "users" : [ "trysoft", "troupe" ],
+      "winners" : [ "troupe" ]
+    }, {
+      "time" : 1486711775152,
+      "tournament" : "ssb4-biweekly-2",
+      "users" : [ "trysoft", "dex" ],
+      "winners" : [ "dex" ]
+    }, {
+      "time" : 1486711782716,
+      "tournament" : "ssb4-biweekly-2",
+      "users" : [ "troupe", "dex" ],
+      "winners" : [ "troupe" ]
+    }, {
+      "time" : 1486712124903,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "gio", "thyme" ],
+      "winners" : [ "gio" ]
+    }, {
+      "time" : 1486712136072,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "gethen", "oka" ],
+      "winners" : [ "gethen" ]
+    }, {
+      "time" : 1486712141692,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "stefn", "absolute" ],
+      "winners" : [ "absolute" ]
+    }, {
+      "time" : 1486712151958,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "kibitori", "mcgregor" ],
+      "winners" : [ "kibitori" ]
+    }, {
+      "time" : 1486712160617,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "brnt", "gio" ],
+      "winners" : [ "gio" ]
+    }, {
+      "time" : 1486712167145,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "pucci", "gethen" ],
+      "winners" : [ "pucci" ]
+    }, {
+      "time" : 1486712172676,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "troupe", "absolute" ],
+      "winners" : [ "troupe" ]
+    }, {
+      "time" : 1486712179913,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "dad", "kibitori" ],
+      "winners" : [ "dad" ]
+    }, {
+      "time" : 1486712189429,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "brnt", "mcgregor" ],
+      "winners" : [ "brnt" ]
+    }, {
+      "time" : 1486712198400,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "gethen", "stefn" ],
+      "winners" : [ "gethen" ]
+    }, {
+      "time" : 1486712204358,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "absolute", "oka" ],
+      "winners" : [ "absolute" ]
+    }, {
+      "time" : 1486712214099,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "kibitori", "thyme" ],
+      "winners" : [ "thyme" ]
+    }, {
+      "time" : 1486712218764,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "gethen", "brnt" ],
+      "winners" : [ "brnt" ]
+    }, {
+      "time" : 1486712231448,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "thyme", "absolute" ],
+      "winners" : [ "thyme" ]
+    }, {
+      "time" : 1486712254140,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "gio", "pucci" ],
+      "winners" : [ "pucci" ]
+    }, {
+      "time" : 1486712259818,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "troupe", "dad" ],
+      "winners" : [ "dad" ]
+    }, {
+      "time" : 1486712264810,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "gio", "thyme" ],
+      "winners" : [ "thyme" ]
+    }, {
+      "time" : 1486712269467,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "troupe", "brnt" ],
+      "winners" : [ "brnt" ]
+    }, {
+      "time" : 1486712277368,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "thyme", "brnt" ],
+      "winners" : [ "thyme" ]
+    }, {
+      "time" : 1486712282118,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "pucci", "dad" ],
+      "winners" : [ "pucci" ]
+    }, {
+      "time" : 1486712285717,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "dad", "thyme" ],
+      "winners" : [ "dad" ]
+    }, {
+      "time" : 1486712292545,
+      "tournament" : "ssb4-biweekly-3",
+      "users" : [ "pucci", "dad" ],
+      "winners" : [ "pucci" ]
+    }, {
+      "time" : 1487314786269,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "absolute", "lunatik" ],
+      "winners" : [ "lunatik" ]
+    }, {
+      "time" : 1487314822178,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "thyme", "lunatik" ],
+      "winners" : [ "thyme" ]
+    }, {
+      "time" : 1487314834270,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "eclipse", "lunatik" ],
+      "winners" : [ "eclipse" ]
+    }, {
+      "time" : 1487314844496,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "rush", "absolute" ],
+      "winners" : [ "rush" ]
+    }, {
+      "time" : 1487314861965,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "absolute", "accelos" ],
+      "winners" : [ "absolute" ]
+    }, {
+      "time" : 1487314879634,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "accelos", "lunatik" ],
+      "winners" : [ "lunatik" ]
+    }, {
+      "time" : 1487314914515,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "guy", "thyme" ],
+      "winners" : [ "thyme" ]
+    }, {
+      "time" : 1487314972635,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "dext", "thyme" ],
+      "winners" : [ "dext" ]
+    }, {
+      "time" : 1487316763128,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "kishin", "lunatik" ],
+      "winners" : [ "kishin" ]
+    }, {
+      "time" : 1487316772342,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "kishin", "accelos" ],
+      "winners" : [ "kishin" ]
+    }, {
+      "time" : 1487316779059,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "kishin", "absolute" ],
+      "winners" : [ "kishin" ]
+    }, {
+      "time" : 1487316787655,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "absolute", "society" ],
+      "winners" : [ "absolute" ]
+    }, {
+      "time" : 1487316801439,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "accelos", "society" ],
+      "winners" : [ "accelos" ]
+    }, {
+      "time" : 1487316807467,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "thyme", "absolute" ],
+      "winners" : [ "thyme" ]
+    }, {
+      "time" : 1487316811321,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "accelos", "kite" ],
+      "winners" : [ "kite" ]
+    }, {
+      "time" : 1487316817376,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "society", "kite" ],
+      "winners" : [ "kite" ]
+    }, {
+      "time" : 1487316824635,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "accelos", "absolute" ],
+      "winners" : [ "absolute" ]
+    }, {
+      "time" : 1487316831409,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "society", "finesse" ],
+      "winners" : [ "finesse" ]
+    }, {
+      "time" : 1487316849876,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "rush", "absolute" ],
+      "winners" : [ "rush" ]
+    }, {
+      "time" : 1487316855569,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "rush", "crazy" ],
+      "winners" : [ "rush" ]
+    }, {
+      "time" : 1487316862470,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "finesse", "accelos" ],
+      "winners" : [ "accelos" ]
+    }, {
+      "time" : 1487316868518,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "dext", "kishin" ],
+      "winners" : [ "dext" ]
+    }, {
+      "time" : 1487316877159,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "absolute", "finesse" ],
+      "winners" : [ "finesse" ]
+    }, {
+      "time" : 1487316883977,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "rush", "dext" ],
+      "winners" : [ "rush" ]
+    }, {
+      "time" : 1487841882439,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "lunatik", "finesse" ],
+      "winners" : [ "lunatik" ]
+    }, {
+      "time" : 1487841899034,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "eclipse", "thyme" ],
+      "winners" : [ "eclipse" ]
+    }, {
+      "time" : 1487841907329,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "lunatik", "accelos" ],
+      "winners" : [ "lunatik" ]
+    }, {
+      "time" : 1487841916294,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "eclipse", "lunatik" ],
+      "winners" : [ "eclipse" ]
+    }, {
+      "time" : 1487841925036,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "accelos", "finesse" ],
+      "winners" : [ "accelos" ]
+    }, {
+      "time" : 1487841935648,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "crazy", "accelos" ],
+      "winners" : [ "accelos" ]
+    }, {
+      "time" : 1487841948263,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "finesse", "crazy" ],
+      "winners" : [ "crazy" ]
+    }, {
+      "time" : 1487842028585,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "dedede", "crazy" ],
+      "winners" : [ "dedede" ]
+    }, {
+      "time" : 1487842039094,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "dedede", "lunatik" ],
+      "winners" : [ "dedede" ]
+    }, {
+      "time" : 1487842052411,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "dedede", "accelos" ],
+      "winners" : [ "dedede" ]
+    }, {
+      "time" : 1487842063891,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "finesse", "dedede" ],
+      "winners" : [ "dedede" ]
+    }, {
+      "time" : 1487885847017,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "joshin", "lunatik" ],
+      "winners" : [ "lunatik" ]
+    }, {
+      "time" : 1487885853720,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "kite", "absolute" ],
+      "winners" : [ "kite" ]
+    }, {
+      "time" : 1487885863197,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "society", "finesse" ],
+      "winners" : [ "finesse" ]
+    }, {
+      "time" : 1487885879805,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "finesse", "accelos" ],
+      "winners" : [ "accelos" ]
+    }, {
+      "time" : 1487885887883,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "accelos", "eclipse" ],
+      "winners" : [ "eclipse" ]
+    }, {
+      "time" : 1487886093269,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "society", "accelos" ],
+      "winners" : [ "accelos" ]
+    }, {
+      "time" : 1487888512318,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "absolute", "finesse" ],
+      "winners" : [ "absolute" ]
+    }, {
+      "time" : 1487888525804,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "accelos", "kite" ],
+      "winners" : [ "kite" ]
+    }, {
+      "time" : 1487888539010,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "eclipse", "dedede" ],
+      "winners" : [ "eclipse" ]
+    }, {
+      "time" : 1487899835574,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "absolute", "accelos" ],
+      "winners" : [ "absolute" ]
+    }, {
+      "time" : 1487900104981,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "pucci", "dext" ],
+      "winners" : [ "dext" ]
+    }, {
+      "time" : 1487900154728,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "dext", "accelos" ],
+      "winners" : [ "dext" ]
+    }, {
+      "archived" : true,
+      "time" : 1487900208167,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "dext", "accelos" ],
+      "winners" : [ "dext" ]
+    }, {
+      "time" : 1487900223780,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "pucci", "absolute" ],
+      "winners" : [ "pucci" ]
+    }, {
+      "time" : 1487900243394,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "accelos", "pucci" ],
+      "winners" : [ "pucci" ]
+    }, {
+      "time" : 1487900262693,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "absolute", "thyme" ],
+      "winners" : [ "thyme" ]
+    }, {
+      "time" : 1487900279615,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "pucci", "thyme" ],
+      "winners" : [ "thyme" ]
+    }, {
+      "time" : 1487900294121,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "dext", "thyme" ],
+      "winners" : [ "dext" ]
+    }, {
+      "time" : 1488433153834,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "rush", "eclipse" ],
+      "winners" : [ "rush" ]
+    }, {
+      "time" : 1488433173959,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "rush", "kite" ],
+      "winners" : [ "rush" ]
+    }, {
+      "time" : 1488433185867,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "eclipse", "kite" ],
+      "winners" : [ "eclipse" ]
+    }, {
+      "time" : 1488433198183,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "rush", "dext" ],
+      "winners" : [ "rush" ]
+    }, {
+      "time" : 1488433208846,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "blkjesus", "kite" ],
+      "winners" : [ "blkjesus" ]
+    }, {
+      "time" : 1488433213809,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "koffee", "rush" ],
+      "winners" : [ "rush" ]
+    }, {
+      "time" : 1488433228598,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "rush", "dedede" ],
+      "winners" : [ "rush" ]
+    }, {
+      "time" : 1488433236117,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "kite", "accelos" ],
+      "winners" : [ "kite" ]
+    }, {
+      "time" : 1488433242242,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "eclipse", "dedede" ],
+      "winners" : [ "eclipse" ]
+    }, {
+      "time" : 1488433249286,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "koffee", "dedede" ],
+      "winners" : [ "koffee" ]
+    }, {
+      "time" : 1488433255286,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "blkjesus", "dedede" ],
+      "winners" : [ "dedede" ]
+    }, {
+      "time" : 1488433268975,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "blkjesus", "koffee" ],
+      "winners" : [ "koffee" ]
+    }, {
+      "time" : 1488433276617,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "blkjesus", "eclipse" ],
+      "winners" : [ "eclipse" ]
+    }, {
+      "time" : 1488433283533,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "lunatik", "kite" ],
+      "winners" : [ "kite" ]
+    }, {
+      "time" : 1488864742574,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "absolute", "blkjesus" ],
+      "winners" : [ "blkjesus" ]
+    }, {
+      "time" : 1488867962858,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "crazy", "thyme" ],
+      "winners" : [ "thyme" ]
+    }, {
+      "time" : 1488867972326,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "kite", "thyme" ],
+      "winners" : [ "thyme" ]
+    }, {
+      "time" : 1488867977276,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "finesse", "absolute" ],
+      "winners" : [ "absolute" ]
+    }, {
+      "time" : 1488867982362,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "kite", "absolute" ],
+      "winners" : [ "kite" ]
+    }, {
+      "time" : 1488867989344,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "eclipse", "blkjesus" ],
+      "winners" : [ "eclipse" ]
+    }, {
+      "time" : 1488868156902,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "eclipse", "thyme" ],
+      "winners" : [ "eclipse" ]
+    }, {
+      "time" : 1488868161809,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "crazy", "blkjesus" ],
+      "winners" : [ "blkjesus" ]
+    }, {
+      "time" : 1488868166743,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "finesse", "kite" ],
+      "winners" : [ "kite" ]
+    }, {
+      "time" : 1488868173810,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "pucci", "eclipse" ],
+      "winners" : [ "eclipse" ]
+    }, {
+      "time" : 1488868181571,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "thyme", "absolute" ],
+      "winners" : [ "thyme" ]
+    }, {
+      "time" : 1488868216902,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "kishin", "pucci" ],
+      "winners" : [ "kishin" ]
+    }, {
+      "time" : 1488868222703,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "kishin", "absolute" ],
+      "winners" : [ "kishin" ]
+    }, {
+      "time" : 1488868230153,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "kishin", "dedede" ],
+      "winners" : [ "kishin" ]
+    }, {
+      "time" : 1488868239086,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "lunatik", "blkjesus" ],
+      "winners" : [ "lunatik" ]
+    }, {
+      "time" : 1489053208910,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "kishin", "eclipse" ],
+      "winners" : [ "eclipse" ]
+    }, {
+      "time" : 1489053216203,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "kishin", "koffee" ],
+      "winners" : [ "kishin" ]
+    }, {
+      "time" : 1489053222437,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "kishin", "kite" ],
+      "winners" : [ "kishin" ]
+    }, {
+      "time" : 1489053228857,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "dext", "koffee" ],
+      "winners" : [ "dext" ]
+    }, {
+      "time" : 1489053236002,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "kite", "koffee" ],
+      "winners" : [ "koffee" ]
+    }, {
+      "time" : 1489053249654,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "thyme", "koffee" ],
+      "winners" : [ "koffee" ]
+    }, {
+      "time" : 1489053265760,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "lunatik", "kite" ],
+      "winners" : [ "lunatik" ]
+    }, {
+      "time" : 1489053271021,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "koffee", "eclipse" ],
+      "winners" : [ "eclipse" ]
+    }, {
+      "time" : 1489053280806,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "accelos", "finesse" ],
+      "winners" : [ "accelos" ]
+    }, {
+      "time" : 1489053288722,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "dext", "eclipse" ],
+      "winners" : [ "dext" ]
+    }, {
+      "time" : 1489053298757,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "joshin", "accelos" ],
+      "winners" : [ "accelos" ]
+    }, {
+      "time" : 1489053312531,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "joshin", "lunatik" ],
+      "winners" : [ "lunatik" ]
+    }, {
+      "time" : 1489053324013,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "lunatik", "dext" ],
+      "winners" : [ "dext" ]
+    }, {
+      "time" : 1489053329345,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "rush", "eclipse" ],
+      "winners" : [ "rush" ]
+    }, {
+      "time" : 1489053336961,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "dext", "rush" ],
+      "winners" : [ "rush" ]
+    }, {
+      "time" : 1489053345651,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "thyme", "rush" ],
+      "winners" : [ "rush" ]
+    }, {
+      "time" : 1489053352015,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "dext", "thyme" ],
+      "winners" : [ "dext" ]
+    }, {
+      "time" : 1489053370274,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "kite", "rush" ],
+      "winners" : [ "rush" ]
+    }, {
+      "time" : 1489053379367,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "dedede", "lunatik" ],
+      "winners" : [ "dedede" ]
+    }, {
+      "time" : 1489053387613,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "blkjesus", "dedede" ],
+      "winners" : [ "dedede" ]
+    }, {
+      "time" : 1489053393351,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "blkjesus", "lunatik" ],
+      "winners" : [ "blkjesus" ]
+    }, {
+      "time" : 1490183754818,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "lunatik", "accelos" ],
+      "winners" : [ "lunatik" ]
+    }, {
+      "time" : 1490183766244,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "lunatik", "absolute" ],
+      "winners" : [ "lunatik" ]
+    }, {
+      "time" : 1490183773731,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "lunatik", "blkjesus" ],
+      "winners" : [ "lunatik" ]
+    }, {
+      "time" : 1490183789279,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "joshin", "finesse" ],
+      "winners" : [ "finesse" ]
+    }, {
+      "time" : 1490183798347,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "joshin", "blkjesus" ],
+      "winners" : [ "blkjesus" ]
+    }, {
+      "time" : 1490183813550,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "absolute", "blkjesus" ],
+      "winners" : [ "absolute" ]
+    }, {
+      "time" : 1490183975307,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "absolute", "finesse" ],
+      "win-k" : 72,
+      "winners" : [ "absolute" ]
+    }, {
+      "time" : 1490183982367,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "pucci", "blkjesus" ],
+      "win-k" : 72,
+      "winners" : [ "pucci" ]
+    }, {
+      "time" : 1490183989291,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "absolute", "lunatik" ],
+      "win-k" : 72,
+      "winners" : [ "absolute" ]
+    }, {
+      "time" : 1490184001917,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "pucci", "absolute" ],
+      "win-k" : 72,
+      "winners" : [ "pucci" ]
+    }, {
+      "time" : 1490184008327,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "blkjesus", "finesse" ],
+      "win-k" : 72,
+      "winners" : [ "blkjesus" ]
+    }, {
+      "time" : 1490184018648,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "blkjesus", "lunatik" ],
+      "win-k" : 72,
+      "winners" : [ "blkjesus" ]
+    }, {
+      "time" : 1490184043564,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "blkjesus", "absolute" ],
+      "win-k" : 72,
+      "winners" : [ "blkjesus" ]
+    }, {
+      "time" : 1490184054767,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "pucci", "blkjesus" ],
+      "win-k" : 72,
+      "winners" : [ "pucci" ]
+    }, {
+      "time" : 1491905021871,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "lunatik", "kite" ],
+      "winners" : [ "kite" ]
+    }, {
+      "time" : 1491905048078,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "society", "joshin" ],
+      "winners" : [ "joshin" ]
+    }, {
+      "time" : 1491905055558,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "finesse", "society" ],
+      "winners" : [ "finesse" ]
+    }, {
+      "time" : 1491905061203,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "finesse", "accelos" ],
+      "winners" : [ "accelos" ]
+    }, {
+      "time" : 1491905076555,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "thyme", "blkjesus" ],
+      "winners" : [ "thyme" ]
+    }, {
+      "time" : 1491905082173,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "absolute", "thyme" ],
+      "winners" : [ "thyme" ]
+    }, {
+      "time" : 1491905096413,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "ark", "thyme" ],
+      "winners" : [ "thyme" ]
+    }, {
+      "time" : 1491905099969,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "ark", "joshin" ],
+      "winners" : [ "ark" ]
+    }, {
+      "time" : 1491905106475,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "ark", "pucci" ],
+      "winners" : [ "pucci" ]
+    }, {
+      "time" : 1491905118931,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "pucci", "dedede" ],
+      "winners" : [ "pucci" ]
+    }, {
+      "time" : 1491905135495,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "kishin", "pucci" ],
+      "winners" : [ "kishin" ]
+    }, {
+      "time" : 1491905144057,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "pucci", "lunatik" ],
+      "winners" : [ "lunatik" ]
+    }, {
+      "time" : 1491905156825,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "blkjesus", "lunatik" ],
+      "winners" : [ "lunatik" ]
+    }, {
+      "time" : 1492684897389,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "koffee", "thyme" ],
+      "winners" : [ "koffee" ]
+    }, {
+      "time" : 1492684903047,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "koffee", "kishin" ],
+      "winners" : [ "koffee" ]
+    }, {
+      "time" : 1492684910818,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "dext", "thyme" ],
+      "winners" : [ "dext" ]
+    }, {
+      "time" : 1492684917668,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "kishin", "pucci" ],
+      "winners" : [ "kishin" ]
+    }, {
+      "time" : 1492684924168,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "finesse", "accelos" ],
+      "winners" : [ "accelos" ]
+    }, {
+      "time" : 1492684931734,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "lunatik", "pucci" ],
+      "winners" : [ "lunatik" ]
+    }, {
+      "time" : 1492684956025,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "accelos", "kishin" ],
+      "winners" : [ "kishin" ]
+    }, {
+      "time" : 1492684972463,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "absolute", "kishin" ],
+      "winners" : [ "kishin" ]
+    }, {
+      "time" : 1492684978974,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "kishin", "finesse" ],
+      "winners" : [ "kishin" ]
+    }, {
+      "time" : 1492684984777,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "dext", "kishin" ],
+      "winners" : [ "dext" ]
+    }, {
+      "time" : 1492684992652,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "absolute", "pucci" ],
+      "winners" : [ "pucci" ]
+    }, {
+      "time" : 1492685000244,
+      "tournament" : "ssb4-ladder-sp2017",
+      "users" : [ "dext", "pucci" ],
+      "winners" : [ "pucci" ]
+    } ],
+    "players" : {
+      "ssb4-biweekly-1" : {
+        "absolute" : {
+          "rating" : 0
+        },
+        "brnt" : {
+          "rating" : 0
+        },
+        "dad" : {
+          "rating" : 0
+        },
+        "danl" : {
+          "rating" : 0
+        },
+        "dex" : {
+          "rating" : 0
+        },
+        "gurfgurf" : {
+          "rating" : 0
+        },
+        "kolton" : {
+          "rating" : 0
+        },
+        "mogar" : {
+          "rating" : 0
+        },
+        "pucci" : {
+          "rating" : 0
+        },
+        "raw" : {
+          "rating" : 0
+        },
+        "society" : {
+          "rating" : 0
+        },
+        "toshirolls" : {
+          "rating" : 0
+        },
+        "troupe" : {
+          "rating" : 0
+        },
+        "trysoft" : {
+          "rating" : 0
+        },
+        "velocity" : {
+          "rating" : 0
+        }
+      },
+      "ssb4-biweekly-2" : {
+        "absolute" : {
+          "rating" : 0
+        },
+        "brnt" : {
+          "rating" : 0
+        },
+        "dad" : {
+          "rating" : 0
+        },
+        "dex" : {
+          "rating" : 0
+        },
+        "gio" : {
+          "rating" : 0
+        },
+        "mogar" : {
+          "rating" : 0
+        },
+        "pucci" : {
+          "rating" : 0
+        },
+        "thyme" : {
+          "rating" : 0
+        },
+        "troupe" : {
+          "rating" : 0
+        },
+        "trysoft" : {
+          "rating" : 0
+        }
+      },
+      "ssb4-biweekly-3" : {
+        "absolute" : {
+          "rating" : 0
+        },
+        "brnt" : {
+          "rating" : 0
+        },
+        "dad" : {
+          "rating" : 0
+        },
+        "gethen" : {
+          "rating" : 0
+        },
+        "gio" : {
+          "rating" : 0
+        },
+        "kibitori" : {
+          "rating" : 0
+        },
+        "mcgregor" : {
+          "rating" : 0
+        },
+        "oka" : {
+          "rating" : 0
+        },
+        "pucci" : {
+          "rating" : 0
+        },
+        "stefn" : {
+          "rating" : 0
+        },
+        "thyme" : {
+          "rating" : 0
+        },
+        "troupe" : {
+          "rating" : 0
+        }
+      }
+    },
+    "tournaments" : {
+      "ssb4-biweekly-1" : {
+        "game" : "ssb4",
+        "title" : "SSB4 Bi-Weekly Tournament"
+      },
+      "ssb4-biweekly-2" : {
+        "game" : "ssb4",
+        "title" : "SSB4 Bi-Weekly Tournament 2"
+      },
+      "ssb4-biweekly-3" : {
+        "game" : "ssb4",
+        "title" : "SSB4 Bi-Weekly Tournament 3"
+      },
+      "ssb4-ladder-sp2017" : {
+        "game" : "ssb4",
+        "players" : [ "absolute", "accelos", "dedede", "dext", "eclipse", "finesse", "kishin", "lunatik", "rush", "society", "thyme", "guy", "kite", "crazy", "joshin", "pucci", "blkjesus", "koffee", "kibitori", "ark" ],
+        "title" : "ssb4-ladder-sp2017"
+      },
+      "ssb4-s2016" : {
+        "game" : "ssb4",
+        "title" : "SSB4 Ladder Spring 2016",
+        "type" : "ladder"
+      }
+    }
+  },
+  "seasons" : {
+    "ssb4-s2016" : {
+      "game" : "ssb4",
+      "title" : "Spring 2016"
+    }
+  },
+  "users" : {
+    "160921209679118337" : {
+      "nickname" : "Accelos"
+    },
+    "169752854070951937" : {
+      "nickname" : "Thyme"
+    },
+    "174421116373303296" : {
+      "nickname" : "octopod"
+    },
+    "178277578770087936" : {
+      "nickname" : "Lunatik"
+    },
+    "QXgZI3JB72Zf1qzeawIdxHSsPa62" : {
+      "displayName" : "gumi",
+      "email" : "irishalvarz@gmail.com",
+      "name" : "Irish Alvarez"
+    },
+    "RtsBJuY8LUSV3NtOvjllLcY7zmz2" : {
+      "displayName" : "Branden Akana",
+      "email" : "octopodsquad@gmail.com",
+      "name" : "Branden Akana"
+    },
+    "absolute" : {
+      "nickname" : "Absolute"
+    },
+    "accelos" : {
+      "discord" : "!160921209679118337",
+      "nickname" : "Accelos"
+    },
+    "ark" : {
+      "nickname" : "Ark"
+    },
+    "blkjesus" : {
+      "discord" : "162502100918468609",
+      "nickname" : "BlkJesus"
+    },
+    "crazy" : {
+      "nickname" : "crazy guy"
+    },
+    "dedede" : {
+      "nickname" : "Phat"
+    },
+    "dext" : {
+      "nickname" : "FEK Dext"
+    },
+    "eclipse" : {
+      "nickname" : "Eclipse"
+    },
+    "finesse" : {
+      "nickname" : "Finesse"
+    },
+    "guy" : {
+      "nickname" : "Guy"
+    },
+    "hpFaTvNGK6UPKBtsFOmyu4Yedgy1" : {
+      "displayName" : "Rawlinson Sausal",
+      "email" : "rawlinson.per@gmail.com",
+      "name" : "Rawlinson Sausal"
+    },
+    "joshin" : {
+      "nickname" : "JoshinDaYoshi"
+    },
+    "kibitori" : {
+      "discord" : "!119305149079486464",
+      "nickname" : "Kibitori"
+    },
+    "kishin" : {
+      "discord" : "81553032608743424",
+      "nickname" : "KOA Kishin"
+    },
+    "kite" : {
+      "nickname" : "Kite"
+    },
+    "koffee" : {
+      "nickname" : "Koffee-Kun"
+    },
+    "lunatik" : {
+      "discord" : "150168447181914113",
+      "nickname" : "Lunatik"
+    },
+    "pucci" : {
+      "nickname" : "Pucci"
+    },
+    "rush" : {
+      "nickname" : "GSM Rush"
+    },
+    "society" : {
+      "nickname" : "Society"
+    },
+    "thyme" : {
+      "nickname" : "FEK Luke"
+    }
+  }
+}
