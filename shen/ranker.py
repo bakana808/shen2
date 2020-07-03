@@ -98,7 +98,7 @@ class EloRankingAlgo(RankingAlgo):
         _i("initializing all players stats...")
 
         for uuid, _user in shn.users.items():
-            self.stats_dict[uuid] = {"rating": 1500}
+            self.stats_dict[uuid] = {"rating": 1500, "matches": 0}
 
     def process_match(self, match: Match, user: User):
 
@@ -130,7 +130,8 @@ class EloRankingAlgo(RankingAlgo):
         for user in match.users:
             adj = self.process_match(match, user)
             adj_stats[user.id] = {
-                "rating": self.stats_dict[user.id]["rating"] + adj
+                "rating": self.stats_dict[user.id]["rating"] + adj,
+                "matches": self.stats_dict[user.id]["matches"] + 1
             }
             _i(f"{user}: {adj}")
 
@@ -147,7 +148,16 @@ class EloRankingAlgo(RankingAlgo):
                             key=lambda stats: stats[1]["rating"],
                             reverse=True)
 
+        # filter out players with 0 matches
+        no_matches = [i for i in stats_list if i[1]["matches"] == 0]
+        stats_list = [i for i in stats_list if i[1]["matches"] > 0]
+
         place = 1
         for v in stats_list:
             _i(f"{place}: {shn.user(v[0])} ({v[1]['rating']})")
             place += 1
+
+        _i(f"players w/ no matches:")
+
+        for v in no_matches:
+            _i(f"{shn.user(v[0])}")
