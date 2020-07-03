@@ -103,7 +103,7 @@ class EloRankingAlgo(RankingAlgo):
     def process_match(self, match: Match, user: User):
 
         # get stats of this player
-        stats = self.stats_dict.get(user.id, None)
+        stats = self.stats_dict.get(user.uuid, None)
 
         # get score of this player
         score = 0
@@ -112,7 +112,7 @@ class EloRankingAlgo(RankingAlgo):
 
         # get skill rating of opponent
         for opponent in match.opponents_of(user):
-            opp_stats = self.stats_dict.get(opponent.id, None)
+            opp_stats = self.stats_dict.get(opponent.uuid, None)
             if not opp_stats:
                 _w("cannot find user: {opponent} !")
 
@@ -129,9 +129,9 @@ class EloRankingAlgo(RankingAlgo):
 
         for user in match.users:
             adj = self.process_match(match, user)
-            adj_stats[user.id] = {
-                "rating": self.stats_dict[user.id]["rating"] + adj,
-                "matches": self.stats_dict[user.id]["matches"] + 1
+            adj_stats[user.uuid] = {
+                "rating": self.stats_dict[user.uuid]["rating"] + adj,
+                "matches": self.stats_dict[user.uuid]["matches"] + 1
             }
             _i(f"{user}: {adj}")
 

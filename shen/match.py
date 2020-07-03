@@ -1,4 +1,4 @@
-from typing import List, Optional
+from typing import List, Optional, Tuple, Dict
 from dataclasses import dataclass, field
 import time as _time
 
@@ -42,6 +42,17 @@ class Match:
 
     # a list of rounds in this match
     rounds: List[Round] = field(default_factory=lambda: [])
+
+    def record_win(self, *winners: User) -> Round:
+        """Record that a user has won the match."""
+
+        # initialize user meta
+        user_meta: Dict[User, dict] = {}
+        for user in self.users:
+            user_meta[user] = {}
+
+        rnd = Round(list(winners), user_meta=user_meta)
+        return rnd
 
     def get_score(self, user: User) -> int:
         """Get the current score of a given user.

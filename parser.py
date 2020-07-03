@@ -1,15 +1,17 @@
 import json
-from shen import Shen, _i, _e, _w
+import shen
 from shen.user import User, gen_uuid
 from shen.match import Round, Match
 from shen.ranker import EloRankingAlgo
+
+_i, _w, _e = shen._i, shen._w, shen._e
 
 
 def parse_file(file: str):
 
     _i(f"reading \"{file}\"...")
 
-    shn = Shen()
+    shn = shen.init()
     ranker = EloRankingAlgo()
 
     with open(file, "r") as f:
@@ -25,13 +27,13 @@ def parse_file(file: str):
 
             # try parsing with format 1
             try:
-                shn.add_user(User(user_dct["nickname"], id=uuid))
+                shn.add_user(User(user_dct["nickname"], uuid=uuid))
             except Exception:
                 pass
 
             # try parsing with format 2
             try:
-                shn.add_user(User(user_dct["displayName"], id=uuid))
+                shn.add_user(User(user_dct["displayName"], uuid=uuid))
             except Exception:
                 pass
 
@@ -39,11 +41,13 @@ def parse_file(file: str):
 
         for uuid, user_dct in dct["players"]["ssb4-s2016"].items():
 
+            nickname = user_dct.get("nickname")
+
             if uuid in shn.users:
                 _w(f"duplicate user found \"{uuid}\"")
 
             else:
-                shn.add_user(User(uuid, id=uuid))
+                shn.add_user(User(uuid, uuid=uuid, nickname=nickname))
 
         i = 0
         for match_id, match_dct in dct["matches"].items():

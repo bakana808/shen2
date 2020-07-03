@@ -40,13 +40,13 @@ class Shen:
             User: the user created
         """
         user = User(name)
-        self.users[user.id] = user
+        self.users[user.uuid] = user
         return user
 
     def add_user(self, user: User):
-        self.users[user.id] = user
+        self.users[user.uuid] = user
 
-    def user(self, uuid) -> User:
+    def user(self, uuid_or_user) -> User:
         """
         Get a user by their UUID.
 
@@ -56,10 +56,21 @@ class Shen:
         Returns:
             User: the user
         """
-        return self.users[uuid]
+        if isinstance(uuid_or_user, User):
+            return uuid_or_user
+        else:
+            return self.users[uuid_or_user]
 
     def add_match(self, match: Match):
         self.matches.append(match)
+
+    def start_match(self, users: List[User], best_of=3) -> Match:
+        """
+        Start a new match.
+        """
+        match = Match(users, best_of=best_of)
+        self.add_match(match)
+        return match
 
     def create_tournament(self, title: str, users: List[User]) -> Tournament:
         """
@@ -73,3 +84,8 @@ class Shen:
             Tournament: the tournament created
         """
         return Tournament(title, users)
+
+
+def init() -> "Shen":
+    return Shen()
+
