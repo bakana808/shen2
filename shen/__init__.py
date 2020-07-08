@@ -25,10 +25,6 @@ class Shen:
         # the users in this session
         self.users: Dict[Any, User] = {}
 
-        # the matches in this session (in order)
-        # TODO: move to tournament class
-        self.matches: List[Match] = []
-
     def create_user(self, name: str) -> User:
         """
         Create a new user.
@@ -45,6 +41,7 @@ class Shen:
 
     def add_user(self, user: User):
         self.users[user.uuid] = user
+        return user
 
     def user(self, uuid_or_user) -> User:
         """
@@ -61,18 +58,9 @@ class Shen:
         else:
             return self.users[uuid_or_user]
 
-    def add_match(self, match: Match):
-        self.matches.append(match)
-
-    def start_match(self, users: List[User], best_of=3) -> Match:
-        """
-        Start a new match.
-        """
-        match = Match(users, best_of=best_of)
-        self.add_match(match)
-        return match
-
-    def create_tournament(self, title: str, users: List[User]) -> Tournament:
+    def create_tournament(self,
+                          title: str,
+                          users: List[User] = []) -> Tournament:
         """
         Create a Tournament.
 
@@ -83,9 +71,8 @@ class Shen:
         Returns:
             Tournament: the tournament created
         """
-        return Tournament(title, users)
+        return Tournament(self, title, users)
 
 
 def init() -> "Shen":
     return Shen()
-

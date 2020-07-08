@@ -43,8 +43,10 @@ from dataclasses import dataclass
 from typing import List
 from shen import Shen, _i, _w, _e
 from shen.user import User
+from shen.player import Player
 from shen.match import Match
 from shen.elo import Elo
+from shen.tournament import Tournament
 
 
 class RankingAlgo:
@@ -53,24 +55,25 @@ class RankingAlgo:
         # the name of the algorithm
         self.name: str = name
 
-    def start(self, shn: Shen):
+    def start(self, tny: Tournament):
         """Starts the algorithm."""
 
         _i("Starting Ranking Algorithm...")
         _i("-" * 80)
-        _i(f"   method: {self.name}")
-        _i(f"  # users: {len(shn.users)}")
-        _i(f"# matches: {len(shn.matches)}")
+        _i(f"tournament: {tny.title}")
+        _i(f"    method: {self.name}")
+        _i(f" # players: {len(tny.players)}")
+        _i(f" # matches: {len(tny.matches)}")
         _i("-" * 80)
 
-        self.on_start(shn)
+        self.on_start(tny)
 
-        for match in shn.matches:
+        for match in tny.matches:
             self.on_match(match)
 
-        self.on_finish(shn)
+        self.on_finish(tny)
 
-    def on_start(self, shn: Shen):
+    def on_start(self, tny: Tournament):
         """Called at the beginning of the algorithm."""
         pass
 
@@ -78,7 +81,7 @@ class RankingAlgo:
         """Called at every match."""
         pass
 
-    def on_finish(self, shn: Shen):
+    def on_finish(self, tny: Tournament):
         """Called after all matches have been processed."""
         pass
 
@@ -90,36 +93,39 @@ class EloRankingAlgo(RankingAlgo):
 
         self.elo: Elo = Elo()
 
-    def on_start(self, shn: Shen):
+    def on_start(self, tny: Tournament):
 
         self.stats_dict = {}
 
         # initialize all player's stats
         _i("initializing all players stats...")
 
-        for uuid, _user in shn.users.items():
-            self.stats_dict[uuid] = {"rating": 1500, "matches": 0}
+        for player in tny.players:
+            self.stats_dict[player.user.uuid] = {"rating": 1500, "matches": 0}
 
-    def process_match(self, match: Match, user: User):
+    def process_match(self, match: Match, player: Player):
 
         # get stats of this player
-        stats = self.stats_dict.get(user.uuid, None)
+        stats = self.stats_dict.get(player.user.uuid, None)
 
         # get score of this player
         score = 0
-        if match.get_winner() == user:
+        # _i(f"check: {match.get_winner()} == {player}")
+        if match.get_winner() == player:
             score = 1
 
         # get skill rating of opponent
-        for opponent in match.opponents_of(user):
-            opp_stats = self.stats_dict.get(opponent.uuid, None)
+        for opponent in match.opponents_of(player):
+            opp_stats = self.stats_dict.get(opponent.user.uuid, None)
             if not opp_stats:
-                _w("cannot find user: {opponent} !")
+                _w("cannot find player.user: {opponent} !")
 
         # calculate skill rating adjustment
         adj = math.ceil(
             self.elo.get_adjustment(stats["rating"], opp_stats["rating"],
                                     score))
+
+        # _i(f"{player} => score={score} adj={adj}")
 
         return adj
 
@@ -127,18 +133,17 @@ class EloRankingAlgo(RankingAlgo):
 
         adj_stats = {}
 
-        for user in match.users:
-            adj = self.process_match(match, user)
-            adj_stats[user.uuid] = {
-                "rating": self.stats_dict[user.uuid]["rating"] + adj,
-                "matches": self.stats_dict[user.uuid]["matches"] + 1
+        for player in match.players:
+            adj = self.process_match(match, player)
+            adj_stats[player.user.uuid] = {
+                "rating": self.stats_dict[player.user.uuid]["rating"] + adj,
+                "matches": self.stats_dict[player.user.uuid]["matches"] + 1
             }
-            _i(f"{user}: {adj}")
 
         # merge adjusted stats with originals
         self.stats_dict = {**self.stats_dict, **adj_stats}
 
-    def on_finish(self, shn: Shen):
+    def on_finish(self, tny: Tournament):
 
         _i("finished reading matches.")
 
@@ -154,10 +159,11 @@ class EloRankingAlgo(RankingAlgo):
 
         place = 1
         for v in stats_list:
-            _i(f"{place}: {shn.user(v[0])} ({v[1]['rating']})")
+            _i(f"{place}: {tny._player(tny.shn.user(v[0]))} ({v[1]['rating']})"
+               )
             place += 1
 
         _i(f"players w/ no matches:")
 
         for v in no_matches:
-            _i(f"{shn.user(v[0])}")
+            _i(f"{tny.shn.user(v[0])}")

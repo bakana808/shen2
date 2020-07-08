@@ -25,57 +25,62 @@ def parse_file(file: str):
         # read users
         for uuid, user_dct in dct["users"].items():
 
+            user = None
+
             # try parsing with format 1
             try:
-                shn.add_user(User(user_dct["nickname"], uuid=uuid))
+                user = shn.add_user(User(user_dct["nickname"], uuid=uuid))
             except Exception:
                 pass
 
             # try parsing with format 2
             try:
-                shn.add_user(User(user_dct["displayName"], uuid=uuid))
+                user = shn.add_user(User(user_dct["displayName"], uuid=uuid))
             except Exception:
                 pass
 
-        _i("populating users (from \"players\")...")
+            if user:
+                print(f"\t{user}")
 
-        for uuid, user_dct in dct["players"]["ssb4-s2016"].items():
+        _i("populating tournaments...")
+        for tny_id, players_dct in dct["players"].items():
 
-            nickname = user_dct.get("nickname")
+            tny = shn.create_tournament(title=tny_id)
 
-            if uuid in shn.users:
-                _w(f"duplicate user found \"{uuid}\"")
+            for uuid, player_dct in players_dct.items():
+                nickname = player_dct.get("nickname")
+                try:
+                    tny.add_user(shn.user(uuid), nickname=nickname)
+                except Exception:
+                    _w(f"\tuser \"{uuid}\" does not exist, creating one...")
+                    user = shn.add_user(User(uuid, uuid=uuid))
+                    tny.add_user(shn.user(uuid), nickname=nickname)
 
-            else:
-                shn.add_user(User(uuid, uuid=uuid, nickname=nickname))
+            i = 0
+            for match_id, match_dct in dct["matches"].items():
 
-        i = 0
-        for match_id, match_dct in dct["matches"].items():
+                user_ids = match_dct["players"]
 
-            user_ids = match_dct["players"]
+                _i(f"match {i}: {' vs. '.join(user_ids)}")
 
-            _i(f"match {i}: {' vs. '.join(user_ids)}")
+                for user_id in user_ids:
+                    if user_id not in shn.users:
+                        _w(f"\tcannot find user {user_id} !")
 
-            for user_id in user_ids:
-                if user_id not in shn.users:
-                    _w(f"\tcannot find user {user_id} !")
+                users = [shn.user(uuid) for uuid in user_ids]
+                match = tny.start_match(users=users)
 
-            rounds = []
-            for rnd_dct in match_dct["games"]:
-                winner = shn.user(user_ids[rnd_dct["winner"]])
-                stage = rnd_dct.get("stage")
-                rounds.append(Round([winner]))
+                for rnd_dct in match_dct["games"]:
+                    winner = shn.user(user_ids[rnd_dct["winner"]])
+                    rnd = match.record_win(winner)
+                    rnd.meta["stage"] = rnd_dct.get("stage")
 
-            users = [shn.user(uuid) for uuid in user_ids]
-
-            shn.add_match(Match(users=users, rounds=rounds))
-
-            i += 1
+                i += 1
 
     _i("finished reading.")
     _i(f"{len(shn.users)} user(s) found.")
 
-    ranker.start(shn)
+    ranker.start(tny)
 
 
 if __name__ == "__main__":
